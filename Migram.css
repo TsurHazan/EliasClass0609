@@ -1,0 +1,17 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+.formclass{
+    width: 300px;
+    margin: auto auto auto auto;
+    text-align: center;
+}
+
+.divform{
+
+    display: flex;
+    height: 100vh;
+}
